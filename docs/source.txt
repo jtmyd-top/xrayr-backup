@@ -1,1 +1,1 @@
-Backed
+Extracted from jtmyd-top/jtmyd/xrayr-backup and maintained as a standalone repository.
